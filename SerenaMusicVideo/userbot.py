@@ -95,7 +95,8 @@ async def repo(client, m: Message):
     REPO = f"""
 <b>❤️ ʜᴇʟʟᴏ {m.from_user.mention}!
 
-      ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ sᴏɴɢs ᴀɴᴅ ᴠɪᴅᴇᴏs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ. 
+      ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ sᴏɴɢs ᴀɴᴅ ᴠɪᴅᴇᴏs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
+      ʜᴇʀᴇ ɪs [ʀᴇᴘᴏ](https://github.com/GodOfanjal/SerenaMusicVideo) 
  
  </b>
 """
